@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :4: for Floccus bookmark sync browser extension -->
+
+<bookmark href="https://github.com/floccusaddon/floccus" id="1">
+  <title>GitHub - floccusaddon/floccus: :cloud: Sync your bookmarks privately across browsers and devices</title>
+</bookmark>
+<bookmark href="https://chromewebstore.google.com/detail/floccus-bookmarks-sync/fnaicdffflnofjppbagibeoednhnbjhg" id="2">
+  <title>floccus bookmarks sync - Chrome Web Store</title>
+</bookmark>
+<bookmark href="https://chromewebstore.google.com/detail/open-random-bookmarks/bgcefofhfeebbefhdnmdlfkibdfdbbfa" id="3">
+  <title>Open Random Bookmarks - Chrome Web Store</title>
+</bookmark>
+<bookmark href="https://nas.io/portal/co-founder/chat?chatId=68957279f3860ede43d13757" id="4">
+  <title>Nas.io Manager Portal - Abba&apos;s</title>
+</bookmark>
+</xbel>
